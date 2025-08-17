@@ -1,0 +1,6 @@
+pyjokes
+psutil
+requests
+wikipedia
+SpeechRecognition
+pypiwin32
