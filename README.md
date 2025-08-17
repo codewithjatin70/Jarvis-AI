@@ -82,7 +82,7 @@ Jarvis will:
 
 ## 📸 Demo
 
-(Add a screenshot or GIF of your Jarvis running here)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/605a1f91-2db3-4f9d-afce-ea954016217c" />
 
 ---
 
